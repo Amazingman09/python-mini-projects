@@ -1,0 +1,11 @@
+CN,Choice1,Choice2,Choice3,Choice4,QN,QG
+1001,Paris,Madrid,Rome,Berlin,1,100
+1002,Leonardo da Vinci,Pablo Picasso,Vincent van Goh,Claude Monet,2,100
+1003,Au,Ag,Hg,Pb,3,100
+1004,Jupiter,Saturn,Neptune,Earth,4,100
+1005,1945,1939,1950,1942,5,100
+1006,Amazon,Nile,Yangtze,Mississippi,6,100
+1007,The Philosopher's Stone,The Chamber of Secrets,The Goblet of Fire,The Prisoner of Azkaban,7,100
+1008,Neil Armstrong,Buzz Aldrin,Yuri Gagarin,Michael Collins,8,100
+1009,Venus,Mercury,Mars,Jupiter,9,100
+1010,Mount Everest,K2,Denali,Kilimanjaro,10,100
